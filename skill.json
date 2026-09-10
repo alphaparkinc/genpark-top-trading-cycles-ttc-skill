@@ -1,0 +1,14 @@
+{
+  "name": "genpark-top-trading-cycles-ttc-skill",
+  "version": "1.0.0",
+  "description": "Shapley-Scarf Top Trading Cycles (TTC) algorithm for Pareto-efficient, core-stable, strategy-proof indivisible resource allocation.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "top-trading-cycles",
+    "ttc",
+    "mechanism-design",
+    "housing-market",
+    "pareto-efficient"
+  ]
+}
